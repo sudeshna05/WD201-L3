@@ -1,0 +1,16 @@
+{
+  "start": "node index.js",
+  "name": "code.",
+  "version": "1.0.0",
+  "description": "First NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "code ."
+  },
+  "author": "Eesha Kavuri",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.28.0",
+    "node": "^19.1.0"
+  }
+}

@@ -1,0 +1,2 @@
+In our projects, we will have some folders or files that we don't want to be tracked or versioned. 
+We can do this by creating a .gitignore file and then add the path to folder or file which doesn't need to be tracked.
